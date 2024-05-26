@@ -1,0 +1,14 @@
+C:\Users\laros\Desktop\Tarea1\PrimeraPractica\PrimeraPractica\obj\Debug\net8.0\PrimeraPractica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laros\Desktop\Tarea1\PrimeraPractica\PrimeraPractica\obj\Debug\net8.0\PrimeraPractica.AssemblyInfoInputs.cache
+C:\Users\laros\Desktop\Tarea1\PrimeraPractica\PrimeraPractica\obj\Debug\net8.0\PrimeraPractica.AssemblyInfo.cs
+C:\Users\laros\Desktop\Tarea1\PrimeraPractica\PrimeraPractica\obj\Debug\net8.0\PrimeraPractica.csproj.CoreCompileInputs.cache
+C:\Users\laros\Desktop\Tarea1\PrimeraPractica\PrimeraPractica\bin\Debug\net8.0\PrimeraPractica.exe
+C:\Users\laros\Desktop\Tarea1\PrimeraPractica\PrimeraPractica\bin\Debug\net8.0\PrimeraPractica.deps.json
+C:\Users\laros\Desktop\Tarea1\PrimeraPractica\PrimeraPractica\bin\Debug\net8.0\PrimeraPractica.runtimeconfig.json
+C:\Users\laros\Desktop\Tarea1\PrimeraPractica\PrimeraPractica\bin\Debug\net8.0\PrimeraPractica.dll
+C:\Users\laros\Desktop\Tarea1\PrimeraPractica\PrimeraPractica\bin\Debug\net8.0\PrimeraPractica.pdb
+C:\Users\laros\Desktop\Tarea1\PrimeraPractica\PrimeraPractica\obj\Debug\net8.0\PrimeraPractica.dll
+C:\Users\laros\Desktop\Tarea1\PrimeraPractica\PrimeraPractica\obj\Debug\net8.0\refint\PrimeraPractica.dll
+C:\Users\laros\Desktop\Tarea1\PrimeraPractica\PrimeraPractica\obj\Debug\net8.0\PrimeraPractica.pdb
+C:\Users\laros\Desktop\Tarea1\PrimeraPractica\PrimeraPractica\obj\Debug\net8.0\PrimeraPractica.genruntimeconfig.cache
+C:\Users\laros\Desktop\Tarea1\PrimeraPractica\PrimeraPractica\obj\Debug\net8.0\ref\PrimeraPractica.dll
